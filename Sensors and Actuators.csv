@@ -1,0 +1,13 @@
+Name	Quantity	Component
+"U4, U5, U6, U9"	4	 Arduino Uno R3
+U7	1	"PCF8574-based, 39 (0x27) LCD 16 x 2 (I2C)"
+D4	1	Red LED
+D5	1	Yellow LED
+D6	1	Green LED
+PIEZO2	1	 Piezo
+"SERVO3, SERVO4"	2	Positional Micro Servo
+R3	1	 Force Sensor
+"DIST3, DIST4"	2	 Ultrasonic Distance Sensor (4-pin)
+R4	1	1 k? Resistor
+U8	1	 Temperature Sensor [TMP36]
+M2	1	 DC Motor
